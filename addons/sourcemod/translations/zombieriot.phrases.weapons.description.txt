@@ -3,10 +3,12 @@
 	"Slot "
 	{
 		"en"		"Slot "
+		"es"		"Ranura "
 	}
 	"Describe This Weapon"
 	{
 		"en"	"Describe This Weapon"
+		"es"	"Describe esta Arma"
 	}
 	"Multi Pellet"
 	{
@@ -238,10 +240,12 @@
 	"Syringe Gun Desc"
 	{
 		"en"		"Low Damage but very high bleed duration\nDeals 15％ less damage against raids."
+		"es"		"Daño bajo, pero duracion alta de sangrado\nHace 15%% menos de daño contra raids."
 	}
 	"Syringe Gun Pap 1 Desc"
 	{
 		"en"		"Increased damage and attackspeed"
+		"es"		"Velocidad de ataque y daño aumentados."
 		"fr"		"Dégats et cadence de tir améliorés"
 		"ru"		"Увеличенный урон и скорость атаки."
 		"chi"       "增加伤害和攻击速度"
@@ -249,6 +253,7 @@
 	"Syringe Gun Pap 2 Desc"
 	{
 		"en"		"Increased damage and attackspeed\nYour syringes land instantly where you shoot (hitscan) But cannot headshot\nLess ammo usage."
+		"es"		"Velocidad de ataque y daño aumentados\nTus jeringas disparan tan rapido que viajan al instante (hitscan), pero no pueden acertar a la cabeza.\nMenos consumo de municion."
 	}
 	
 	"Sniper Rifle Pap 1"
@@ -362,6 +367,7 @@
 	"Flamethrower Pap 1"
 	{
 		"en"		"Increased damage and resistances. M2 ability gives minicrits and uber for a short time.\nDeals 1.15x damage against raidbosses.\nGain additinonal 10％ Extra Range"
+		"es"		"Daño y resistencias aumentados. [M2]: Otorga uber y minicriticos por un tiempo breve."
 	}
 	"Flamethrower Pap 1 1"
 	{
@@ -585,11 +591,13 @@
 	"Star Shooter Desc"
 	{
 		"en"	"Your M1 CD will show you how long untill it will cool off again.\nHigher overheat means less damage."
+		"es"	"Tu cooldown en tu disparo primario es el tiempo que tarda antes de enfriarse.\nEntre mas se sobrecaliente, menos daño hara."
 	}
 
 	"Star Shooter Pap 1"
 	{
 		"en"	"Increased damage,reduced overheat gained each shot and gains an ability.\nAbility gives increased attack speed and removes overheat gain from shooting for 7.5 seconds."
+		"es"	"Daño aumentado, sobrecalentamiento reducido y gana una habilidad:\nIncrementa tu velocidad de ataque y impide que el arma se sobrecaliente por 7.5 segundos."
 		"fr"	"Dégats améliorés, chauffage de l'arme réduite.\nL'abilité améliore la cadence de tirs et empêche le chauffage de l'arme pour 7.5 secondes."
 		"chi"	"增加伤害，减少过热。获得新技能，激活时增加攻速并且无过热，持续时间7.5秒"
 	}
@@ -1759,29 +1767,34 @@
 	"Body armor Desc"
 	{
 		"en"	"Increased How much armour you get per use and max cap. +50 HP\nProvides passive resistance if armor is broken and increases with more armor upgrades."
+		"es"	"Aumenta el limite y la cantidad de armadura que obtienes. +50 HP.\nProvee resistencia pasiva si la armadura esta rota, y aumenta con mas mejoras de armadura."
 		"fr"	"Armure reçu et armure maximalle améliorées. +50 santé.\nDonne une résistance passive qui s'améliore avec vos améliorations pour armure, si votre armure est brisée."
 	}
 	
 	"Kevlar Desc"
 	{
 		"en"	"Increased How much armour you get per use and max cap. +100 HP\nProvides passive resistance if armor is broken and increases with more armor upgrades."
+		"es"	"Aumenta el limite y la cantidad de armadura que obtienes. +100 HP.\nProvee resistencia pasiva si la armadura esta rota, y aumenta con mas mejoras de armadura."
 		"fr"	"Armure reçu et armure maximalle améliorées. +100 santé.\nDonne une résistance passive qui s'améliore avec vos améliorations pour armure, si votre armure est brisée."
 	}
 	
 	"Heavy Vest Desc"
 	{
 		"en"	"Increased How much armour you get per use and max cap. +150 HP\nProvides passive resistance if armor is broken and increases with more armor upgrades."
+		"es"	"Aumenta el limite y la cantidad de armadura que obtienes. +150 HP.\nProvee resistencia pasiva si la armadura esta rota, y aumenta con mas mejoras de armadura."
 		"fr"	"Armure reçu et armure maximalle améliorées. +150 santé.\nDonne une résistance passive qui s'améliore avec vos améliorations pour armure, si votre armure est brisée."
 	}
 	
 	"Grigori's Blessing Desc"
 	{
 		"en"	"+300 Health and life regen 1％ of your max hp per second up to half your HP, during bleedout, you also will survive for longer.\nOut of battle, heals extra with more melee upgrades."
+		"es"	"+300 HP, regenera 1%% de tu vida maxima hasta la mitad. Mientras andes derribado, sobreviviras mas tiempo.\nEstando fuera de pelea, regeneras mas con mejoras cuerpo a cuerpo."
 	}
 	
 	"Full Riot Gear Desc"
 	{
 		"en"	"Increased How much armour you get per use and max cap. +150 HP\nProvides passive resistance if armor is broken and increases with more armor upgrades."
+		"es"	"Aumenta el limite y la cantidad de armadura que obtienes. +150 HP.\nProvee resistencia pasiva si la armadura esta rota, y aumenta con mas mejoras de armadura."
 		"fr"	"Armure reçu et armure maximalle améliorées. +150 santé.\nDonne une résistance passive qui s'améliore avec vos améliorations pour armure, si votre armure est brisée."
 	}
 	
@@ -1828,6 +1841,7 @@
 	"Panic Attack Desc"
 	{
 		"en"	"You attack 15％ slower but the lower your health is, the faster you attack, up to 25％ faster, doesn't work with last man alive."
+		"es"	"Atacas un 15%% mas lento, pero entre menos vida tengas, atacas mas rapido, hasta +25%% mas rapido.\nNo funciona si eres el ultimo en pie."
 		"fr"	"-15％ cadence des attaques, cadence des attaques améliore en fonction de santé perdu, jusqu'a +25％."
 		"ru"	"Вы атакуете на 15％ медл., но чем меньше у вас здор., тем быстрее вы атакуете, до 25％ быстрее, не работает, если вы посл. выживший."
 		"chi"   "你的攻击速度会慢15%，但是你的血量越低，你的攻击速度就越快\n最快25%，对最后一个活着的人不起作用。"
@@ -1852,6 +1866,7 @@
 	"Mechanic Desc"
 	{
 		"en"	"15％ more health to buildings, but 15 less health and 5％ less movement speed"
+		"es"	"+15%% de vida de construcciones, pero -15 HP y -5%% de velocidad de movimiento"
 		"fr"	"+15％ durabilité de vos constructions. -15 santé, -5％ vitesse."
 		"ru"	"На 15％ больше здоровья постройкам, но на 15 меньше здоровья себе и на 5％ меньше скорости передвижения"
 		"chi"   "建筑血量增加15％，但你的生命值减少15，移动速度减少5％"
@@ -1860,6 +1875,7 @@
 	"Wrenchy Hands Desc"
 	{
 		"en"	"35％ less melee and secondary damage (doesn't include builder weapons), but 25％ Faster Repair for both melee and secondary"
+		"es"	"-35%% daño a distancia (NO INCLUYE ARMAS DE CONSTRUCTOR)\nPero otorga +25%% de velocidad de reparacion."
 		"fr"	"-35％ dégats pour armes secondaire ou corps-à-corps (armes constructeur sont exclus,) +25％ vitesse de réparation."
 		"ru"	"На 35％ меньше урона от оружия ближнего боя и доп. оружия (кроме оружия строителей), но на 25％ быстрее починка как для ближнего боя, так и для доп. оружия"
 		"chi"   "降低35％的近战和副武器伤害(不包括工程师的武器)，但提高25％的近战和副武器的修复速度"
@@ -1868,6 +1884,7 @@
 	"Sniper Sentry Desc"
 	{
 		"en"	"Double damage, 2.3x slower attack speed, 2x range for sentry guns and alike"
+		"es"	"x2 de daño de construcciones, velocidad de ataque de construcciones -230%% mas lenta"
 		"fr"	"2x dégats et portée, 2.3x cadence de tir plus lente pour vos mitrailleuses"
 		"ru"	"Двойной урон, 2,3-кратное замедление скорости атаки, двукратная дальность для всех турелей"
 		"chi"   "伤害加倍，但攻击速度降低2.3倍，哨兵的射程增加2倍"
@@ -1876,6 +1893,7 @@
 	"Minigun Sentry Desc"
 	{
 		"en"	"10％ less damage, 1.4x Attack speed, 0.5x range for sentry guns and alike"
+		"es"	"-10%% de daño de construcciones, +40%% velocidad de ataque de construcciones\n-50%% de rango para centinelas y similares"
 		"fr"	"-10％ dégats, 0.5x portée, 1.4x cadence de tir pour vos mitrailleuses"
 		"ru"	"На 10％ меньше урона, 1,4-кратная скорость атаки, 0,5-кратная дальность стрельбы для всех турелей"
 		"chi"   "伤害减少10％，但攻击速度提高1.4倍，哨兵的射程增加0.5倍"
@@ -1884,6 +1902,7 @@
 	"Glass Cannon Blueprints Desc"
 	{
 		"en"	"30％ more building damage, 75％ less building HP, can only have 1 support buidling/cant build more/claim more.\nAlso works with Barraks, gives units 15％ more damage."
+		"es"	"+30%% de daño de construccion, -75%% de vida de construccion\nImpide poner mas de 1 construccion de soporte.\nFunciona con los barracks, dandoles mas daño pero reduciendo su vida"
 		"fr"	"2x dégats, -75％ durabilité pour vos constructions. +15％ dégats pour les unités de vos casernes.\nPeut seulement avoir 1 espace pour construction de support."
 		"ru"	"На 30％ больше урона у построек, на 75％ меньше ОЗ у построек, можно иметь только 1 здание поддержки/можно строить больше/забрать больше.\nДаёт боевым единицам из казарм на 15％ больше урона."
 		"chi"	"+30%建筑伤害，-75％建筑血量，辅助建筑上限限制为1\n兵营获得+15％伤害。"
@@ -1900,6 +1919,7 @@
 	"Heavy Caliber Desc"
 	{
 		"en"	"15％ more Weapon damage, but 15％ less firerate"
+		"es"	"+15%% de daño a distancia, pero -15%% de velocidad de disparo"
 		"fr"	"+15％ dégats, -15％ cadence de tir"
 		"ru"	"На 15％ больше урон от оружия, но на 15％ меньше скорострельность"
 		"chi"   "武器伤害提高15％，但射速降低15％"
@@ -1908,22 +1928,26 @@
 	"Army Belt Desc"
 	{
 		"en"	"10％ Faster reload but have a 1.45x longer weapon switch"
+		"es"	"+10%% de velocidad de recarga, pero cambias armas un 45%% mas lento"
 		"fr"	"+10％ vitesse de rechargement, 1.45x vitesse de changement d'arme plus lente"
 	}
 	
 	"Headshot Affinity Desc"
 	{
 		"en"	"Headshots deal 1.4x the dmg instead of 1.2, but deal 35％ less bodyshot damage\nFalloff, if you headshot, is reduced by 30%."
+		"es"	"Los tiros a la cabeza hacen +40%% de daño en lugar de +20%%.\nLos tiros al cuerpo hacen un -35%% de daño.\nLa decaida de daño, si aciertas a la cabeza, es reducida en un -30%%."
 	}
 	"Proximity Ammunition Desc"
 	{
 		"en"	"Your bullets deal 15％ more damage, however their damage falloff is amplified by 20％\nMost hitscan weapons work with this, if the weapon has no damage falloff, then this does nothing."
+		"es"	"+15%% de daño a distancia, pero amplifica la decaida de daño en un 20%%\nSi tu arma no tiene decaida de daño, este bono no funciona."
 		"fr"	"+15％ dégats, 20％ plus de perte de dégats en fonction de la distance.\nAucun effet si votre arme perd pas de dégats en fonction de la distance."
 	}
 	
 	"Mage Fragility Desc"
 	{
 		"en"	"25％ more max mana and mana regen but you will have 100 less HP"
+		"es"	"+25%% mana maxima y regeneracion de mana, -100 HP"
 		"fr"	"+25％ Mana maximum et regénération de Mana, -100 santé"
 		"ru"	"На 25％ больше максимальной маны и регенерации маны, но у вас на 100 меньше ед. здоровья"
 		"chi"   "增加25％的最大法力值和法力回复，生命值-100 "
@@ -1931,6 +1955,7 @@
 	"Mystical Overcharge Desc"
 	{
 		"en"	"Magic Weapons deal 20％ more damage, however you have 35％ less max mana and mana regen."
+		"es"	"+20%% daño magico, pero -35%% mana maxima y regeneracion de mana"
 		"fr"	"+20％ dégats magiques, -35％ Mana maximum et regénération de Mana"
 		"chi"	"魔法武器造成+20％伤害，但是-35％蓝上限和恢复速度。"
 	}
@@ -1959,6 +1984,7 @@
 	{
 		"en"	"You take 5％ less damage overall but have -100 health."
 		"fr"	"+5％ résistance, -100 santé"
+		"es"	"+5%% resistencia al daño, -100 HP"
 		"ru"	"Вы получаете на 5％ меньше общего урона, но имеете -100 здоровья."
 		"chi"   "你受到的伤害减少5％，但生命值-100。"
 	}
@@ -1966,6 +1992,7 @@
 	"Soft Shoes Desc"
 	{
 		"en"	"Take 10％ less fall damage!"
+		"es"	"-10%% de daño de caida."
 		"fr"	"-10％ dégats pour tomber!"
 		"ru"	"Получайте на 10％ меньше урона при падении!"
 		"chi"   "减少10％的掉落伤害!"
@@ -1990,6 +2017,7 @@
 	"Level 15 Peashooter Desc"
 	{
 		"en"	"You went far enough to deserve this gun for free at the start. It's abit worse than the others, but it'll do. (lol)"
+		"es"	"Fuiste bastante lejos para merecer esta arma gratis. Es algo peor que las otras, pero funcionara. (lol)"
 		"fr"	"Vous avez fait bien assez pour pouvoir utiliser ceci gratuitement. C'est un peu moche, mais ça fonctionne. (lol)"
 		"ru"	"Вы зашли достаточно далеко, чтобы заслужить этот пистолет бесплатно в самом начале. Он немного хуже, чем остальные, но сойдёт. (лол)"
 		"chi"   "你做的很好了，奖励你这把枪。虽然很废物，但他的确是免费的。（憋"
@@ -1997,7 +2025,8 @@
 	
 	"Rusty Wrench Desc"
 	{
-		"en"	"Repairs buildings and sentrys, the worst of the worst. But free."
+		"en"	"Repairs buildings and sentrys, the worst of the worst, but free."
+		"es"	"Repara construcciones y centinelas. Lo peor de lo peor, pero gratis."
 		"fr"	"Répare les constructions. C'est terrible, mais c'est gratuit."
 		"ru"	"Ремонтирует постройки и турели, худший из худших. Но бесплатный."
 		"chi"   "修复建筑，是最坏的工作。但，是免费的，不消耗金属。"
@@ -2097,6 +2126,7 @@
 	"Irene Weapon Desc"
 	{
 		"en"	"You double attack with each attack.\nHitting any enemy 42 times will give you an ability.\nThis ability kicks enemies into the air and bombards them with AOE attacks.\nIf seaborns exist, gain 15％ bonus attackspeed."
+		"es"	"Haces ataques dobles con cada ataque.\nPegar 42 veces cargara una habilidad al maximo:\nHace volar a los enemigos y los bombardea con ataques en area.\nSi hay aun Seaborn en el mapa, atacas un +15%% mas rapido."
 		"fr"	"Chaque attaque frappe deux fois.\nObtenez une abilité après 42 coups.\nAbilité lance les ennemis dans l'air et les bombarde aves des tirs explosifs.\n+15％ cadence des attaques si des Seaborns existe."
 		"chi"	"每次攻击造成两次伤害。\n击中敌人42次后可激活技能。\n此技能会将你附近所有敌人击飞，并造成大量aoe伤害。\n如有海嗣，获得+15％攻击速度。"
 	}
@@ -2206,7 +2236,8 @@
 
 	"Crusader Desc"
 	{
-		"en"	"Heals an ally for a bit and gives them the medigun buff for 15 seconds and yourself for 5 seconds.\nBuff works on full HP targets."
+		"en"	"Heals an ally for a bit and buffs them with Healing Resolve for 15 seconds and yourself for 5 seconds.\nBuff works on full HP targets."
+		"es"	"Cura a un aliado un poco y les otorga Resolucion Curativa por 15 segundos, y a ti por 5 segundos.\nEl buff funciona en objetivos totalmente curados."
 		"fr"	"Soigne les alliés, leur donnant un Buff de 15 secondes, et donnant à vous un Buff pour 5 secondes.\nLe Buff fonctionne même sur les alliés ayant pas besoin de soins."
 		"ru"	"Немного лечит союзника и накладывает на него эфф. лечебной пушки на 15 секунд, а на себя - на 5 секунд.\nЭффект действует на цели с полным ОЗ."
 		"chi"   "稍微治疗队友，并给予他们15秒和你自己5秒的医疗buff。\nBuff适用于满HP目标。"
@@ -2214,6 +2245,7 @@
 	"Crusader Desc Pap 1"
 	{
 		"en"	"Shots become instant and scope charge.\nYour heals overheal to 15％.\nYour R ability allows you to spawn healthkits.\nHealkits provide buffs aswell and have small in battle heal penalty.\nThey require a windup of 2 seconds.\nYou can place upto 2 per usage."
+		"es"	"Los tiros se vuelven instantanteos, permite hacer zoom y cargar el disparo.\nPuedes sobrecurar hasta un +15%%\nTu habilidad de RECARGA coloca paquetitos de vida.\nLos paquetitos proveen curacion, buffs y menos penalizacion de pelea.\nRequieren un arme de 2 segundos, puedes poner hasta 2 por uso."
 		"fr"	"Devient un fusil de Sniper, la charge améliore les soins.\nLes soins peuvent donner un bonus santé de 15％.\nAppuyez sur R pour placer des medkits.\nVos medkits donne un Buff, mais donne moins de soins aux aliiés dans le combat.\nVous pouvez placer jusqu'a 2 medkits à la fois."
 		"chi"	"子弹替换箭头，并且可以充能。\n现在可以造成超量（上限15％）\nR技能可以放置医疗包，需要蓄力2秒放置。\n医疗包也可以提供buff，战斗时稍微降低效率。"
 	}
@@ -2983,6 +3015,7 @@
 	"Seaborn Infection Desc"
 	{
 		"en"	"Becoming a seaborn, yet resisting We Many.\nProvides an AOE long-range melee, an high-damage crossbow, and a stronger Medi-Kit."
+		"es"	"Te vuelves un Seaborn, y al mismo tiempo resistes ante Nosotros Muchos.\nProvee un arma con daño en area, un medikit fuerte, y una ballesta."
 		"fr"	"Donne des griffes à longue portée, un arbalète lanceur d'épines, et un Medikit.\nDevient un Seaborn, pourtant résistant We Many."
 		"chi"	"成为海嗣，但反对大群意志。\nAOE高距离进展，高伤害十字弩，以及大医疗包。"
 	}
@@ -3095,64 +3128,76 @@
 	"The Flagellant Desc"
 	{
 		"en"	"Zealotry—an undying blight upon the soul.\nProvides extra health with the ability to heal but inflicts self-damage.\nYou are immune to all bleed effects."
+		"es"	"Fanatismo - Una plaga eterna en el alma.\nProvee vida extra con la habilidad de curar, pero te inflinges daño a ti mismo.\nEres inmune a TODO tipo de sangrado."
 	}
 	"The Flagellant Extra Desc"
 	{
 		"en"	"When using self-healing abilities while downed, self revive with a chance to ignore the downed limit. Using this kit may attract more mini-bosses. You can read weapon specific abilities by using Inspect + Scoreboard on a weapon."
+		"es"	"Usar algunas habilidades mientras andes derribado te revivira con una chance de ignorar el limite de derribos. Usar este kit quiza atraiga mas mini-jefes. Puedes leer habilidades especificas del arma usando la tecla de Inspeccion + TABULADOR (Scoreboard) en un arma."
 		"fr"	"L'abilité de vous soigner peut vous sortir du KO, avec une chance d'ignorer la limite de KO. Cet ensemble pourrait attirer plus de Mini-boss. INSPECT + TAB vous permet de lire l'information des abilités de votre arme."
 		"chi"	"在倒地时使用自疗，复活，另有几率无视复活次数。这个套装更容易拉精英怪的仇恨。检查武器+tab可以读取更多武器信息。"
 	}
 	"The Flagellant Generic Pap"
 	{
 		"en"	"Increased stats overall."
+		"es"	"Estadisticas mejoradas."
 	}
 	"Acid Rain Desc"
 	{
 		"en"	"When targeting an enemy, cause an explosion that inflicts bleed, consumes 5％ of your max health, Medigun upgrades increases damage."
+		"es"	"Apuntarle a un enemigo causara una explosion que inflinge daño, consume 5%% de tu vida maxima."
 		"fr"	"Crée une explosion qui cause du saignement, en échange de 5％ de votre santé maximum. Les améliorations Medigun améliore les dégats."
 		"chi"	"锁定敌人时，造成一个带有流血的爆炸。消耗5％的血量。医疗升级提高伤害。"
 	}
 	"Deathless Desc"
 	{
 		"en"	"When targeting an ally, heals them at the cost of your own health, Medigun upgrades increases healing and reduces self-damage."
+		"es"	"Apuntarle a un aliado los curara a costo de tu propia vida."
 		"fr"	"Vous permet de soigner un allié, en échange de votre santé. Les améliorations Medigun améliore les soins, et réduit les dégats qui vous sont infligés."
 		"chi"	"锁定队友是哦，消耗自身血量治疗他们。医疗升级提升治疗，降低自伤。"
 	}
 	"Punish Desc"
 	{
 		"en"	"Melee attacks self-damage yourself for 1％ of your max health but inflicts 15 seconds of bleed on targets."
+		"es"	"Ataques cuerpo-a-cuerpo te dañaran por 1%% de tu vida, pero inflingira 15 segundos de sangrado en enemigos."
 		"fr"	"Les coups corps-à-corps infligent 15 secondes de saignement en échange de 1％ de votre santé maximum."
 		"chi"	"近战攻击会扣除自身1％的血量，对敌人造成15秒的流血。"
 	}
 	"Acid Rain Pap 1"
 	{
 		"en"	"Primary alt-fire ability ''Sepsis'' hits one enemy for massive damage, trigger all bleed at once, heals yourself for 35％ max health (once per wave).\nSecondary and Melee also gain an alt-fire ability."
+		"es"	"SEPSIS (Habilidad Primaria M2): Provoca daño masivo a un enemigo, inflinge el daño total de sangrado en el enemigo, y te cura por 35%% de vida.\nTu arma secundaria y cuerpo a cuerpo ganan una habilidad."
 		"fr"	"Abilité arme principale «Encore! ENCORE!» : Frappez un ennemi pour infliger tous les dégats de saignement à la fois, et vous soigne pour 35％ santé. Peut être utilisé une fois par vague.\nVos armes secondaire et corps-à-corps reçoivent aussi une abilité."
 		"chi"	"主武器M2技能：''多来点！''\n对一名敌人造成大量伤害，激活所有流血，治疗自己35％血量。（每波一次性）\n副武器和近战也获得M2技能。"
 	}
 	"Deathless Pap 1"
 	{
 		"en"	"Secondary alt-fire ability ''Lash's Gift'' targets one ally, removing some armor but gives a damage and resistance buff, and heals yourself for 25％ max health.\nPrimary and Melee also gain an alt-fire ability."
+		"es"	"REGALO DE LASH (Habilidad Secundaria M2): Cura y fortalece a un aliado, pero les quita algo de armadura, y te curas por 25%% de tu vida.\nTu arma primaria y cuerpo a cuerpo ganan una habilidad."
 		"fr"	"Abilité arme secondaire «Don de Lash» : Améliore les dégats et la résistance d'un de vos coéquipiers, en échange pour un peu de leur armure.\nVos armes principale et corps-à-corps reçoivent aussi une abilité."
 		"chi"	"副武器M2技能：''鞭打之礼''\n移除友军部分护甲，但是提供伤害和抗性buff。治疗自己25％血量。\n主武器和近战也获得M2技能。"
 	}
 	"Punish Pap 1"
 	{
 		"en"	"Melee alt-fire ability ''More! MORE!'' gives yourself to store damage taken to later be restored after the ability ends.\nPrimary and Secondary also gain an alt-fire ability."
+		"es"	"MAS, MAS! (Habilidad Cuerpo a Cuerpo M2): El daño que recibas es guardado para ser devolvido como vida hacia ti cuando termina la habilidad.\nTu arma primaria y secundaria ganan una habilidad."
 	}
 	"The Flagellant Pap 0"
 	{
 		"en"	"Gain +300 max health and doubles bleed damage, unlocks Acid Rain primary weapon."
+		"es"	"Ganas +300 de vida, x2 de daño de sangrado, y desbloqueas tu primaria (Lluvia Acida)."
 	}
 	"The Flagellant Pap 2"
 	{
 		"en"	"Gain +200 max health and increases healing given and received from abilities."
+		"es"	"Ganas +200 de vida y incrementa la curacion recibida de tus habilidades."
 		"fr"	"Soins donnés et reçus de vos abilités améliorés. +200 santé maximum."
 		"chi"	"+200血量，增加受到的治疗和治疗输出（输出和收到的）"
 	}
 	"The Flagellant Pap 3"
 	{
 		"en"	"Gain +350 max health, increases healing given and received from abilities, and bleed effects last longer."
+		"es"	"Ganas +350 de vida, incrementa la curacion recibida de tus habilidades y los efectos de sangrado duran mas."
 		"fr"	"Soins donnés et reçus de vos abilités améliorés. Saignement infligé par vos attaques dure plus longtemps. +350 santé maximum."
 		"chi"	"+350血量，增加受到的治疗和治疗输出，增加流血时长。"
 	}
@@ -4341,22 +4386,27 @@
 	"Bubble Wand Desc"
 	{
 		"en" "Throws a bubble, which slows down and powers up as it travels.\nThis bubble automatically pops if its speed reaches 0."
+		"es" "Invoca una burbuja, que se ralentiza y se hace mas potente con el tiempo.\nEsta burbuja explota si su velocidad llega a 0."
 	}
 	"Bubble Wand Pap 1 Desc"
 	{
 		"en" "Increases damage and very slightly increased swing speed.\nIncreased the damage boost based on lifetime."
+		"es" "Aumenta el daño y la velocidad de ataque ligeramente.\nAumenta el daño basado en tiempo de vida."
 	}
 	"Bubble Wand Pap 2 Desc"
 	{
 		"en" "Increases damage + slightly increases swing speed.\nIncreases the damage boost based on lifetime\nBubble Frenzy:\nPress M2 to double your attackspeed and debuff enemies\nApplies debuffs on raids always, but for 1/4 of its duration."
+		"es" "Aumenta el daño y la velocidad de ataque ligeramente.\nAumenta el daño basado en tiempo de vida.\nLocura Burbujosa:\nPresiona CLICK DERECHO para duplicar tu velocidad de ataque y mojar a los enemigos."
 	}
 	"Bubble Wand Pap 3 Desc"
 	{
 		"en" "Increases damage and very slightly increases swing speed.\nIncreases the damage boost based on lifetime.\nSlightly increases Bubble Frenzy's debuff duration."
+		"es" "Aumenta el daño y la velocidad de ataque ligeramente.\nAumenta el daño basado en tiempo de vida.\nIncrementa la duracion del debuff de Locura Burbujosa."
 	}
 	"Bubble Wand Pap 4 Desc"
 	{
 		"en" "Greatly increases damage and very slightly increases swing speed.\nIncreases the damage boost based on lifetime.\nSlightly strengthens Bubble Frenzy's debuff penalty, and increases its duration a bit."
+		"es" "Aumenta el daño mucho y la velocidad de ataque ligeramente.\nAumenta el daño basado en tiempo de vida.\nAumenta un poco la fuerza del debuff de Locura Burbujosa y aumenta su duracion un poco."
 	}
 
 	"Merchant Brewing Stand Desc"
