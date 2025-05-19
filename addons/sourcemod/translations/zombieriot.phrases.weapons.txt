@@ -9,6 +9,7 @@
 		"pt"		"Dano"
 		"nl"		"Schade"
 		"chi"       	"伤害"
+		"es"		"Daño"
 	}
 	"pellets"
 	{
@@ -19,6 +20,7 @@
 		"pt"		"Balas"
 		"nl"		"Korrels"
 		"chi"       	"弹药"
+		"es"		"Balas"
 	}
 	"firerate"
 	{
@@ -29,6 +31,7 @@
 		"pt"		"Cadência de tiro"
 		"nl"		"Vuursnelheid"
 		"chi"       	"射速"
+		"es"		"Velocidad de Disparo"
 	}
 	"reload"
 	{
@@ -39,6 +42,7 @@
 		"pt"		"Recarga"
 		"nl"		"Herlaad"
 		"chi"       	"换弹"
+		"es"		"Recarga"
 	}	
 	"clip"
 	{
@@ -49,6 +53,7 @@
 		"pt"		"Cartucho"
 		"nl"		"Clip"
 		"chi"       	"子弹"
+		"es"		"Cartucho"
 	}	
 	"chargespeed"
 	{
@@ -59,6 +64,7 @@
 		"pt"		"Velocidade de Carga"
 		"nl"		"Laadsnelheid"
 		"chi"		"充能速度"
+		"es"		"Velocidad de Carga"
 	}
 	"chargedmg"
 	{
@@ -79,6 +85,7 @@
 		"pt"		"Cura"
 		"nl"		"Genezing"
 		"chi"		"治疗"
+		"es"		"Curacion"
 	}
 	"range"
 	{
@@ -114,6 +121,7 @@
 	"Syringe Gun"
 	{
 		"en" 		"Syringe Gun"
+		"es"		"Pistola de Jeringas"
 		"fr" 		"Pistolet à Seringues"
 		"ru" 		"Шприцемёт"
 		"de"		"Spritzenpistole"
@@ -124,6 +132,7 @@
 	"Sniper Rifle"
 	{
 		"en"		"Sniper Rifle"
+		"es"		"Rifle Francotirador"
 		"fr"		"Fusil de Sniper"
 		"ru"		"Снайперская винтовка"
 		"de"		"Scharfschützengewehr"
@@ -134,6 +143,7 @@
 	"Sawed off Shotgun"
 	{
 		"en"		"Sawed off Shotgun"
+		"es"		"Escopeta Recortada"
 		"fr"		"Fusil de Chasse Scié"
 		"ru"		"Обрез"
 		"de"		"Abgesägte Schrotflinte"
@@ -154,6 +164,7 @@
 	"Huntsman"
 	{
 		"en"		"Huntsman"
+		"es"		"El Cazador"
 		"fr"		"Huntsman"
 		"ru"		"Охотник"
 		"de"		"Huntsman"
@@ -164,6 +175,7 @@
 	"Flamethrower"
 	{
 		"en"		"Flamethrower"
+		"es"		"Lanzallamas"
 		"fr"		"Lance-flammes"
 		"ru"		"Огнемёт"
 		"de"		"Flammenwerfer"
@@ -174,6 +186,7 @@
 	"Ranged Spike Layer"
 	{
 		"en"		"Ranged Spike Layer"
+		"es"		"Coloca-Puas a Distancia"
 		"fr"		"Placeur de Piques à Distance"
 		"ru"		"Шипомёт"
 		"de"		"Fernkampfstachelschicht"
@@ -184,6 +197,7 @@
 	"Crusader's Crossbow"
 	{
 		"en"		"Crusader's Crossbow"
+		"es"		"Ballesta del Cruzado"
 		"fr"		"Arbalète du Croisé"
 		"ru"		"Арбалет крестоносца"
 		"de"		"Armbrust des Kreuzritters"
@@ -194,6 +208,7 @@
 	"Grenade Launcher"
 	{
 		"en"		"Grenade Launcher"
+		"es"		"Lanzagranadas"
 		"fr"		"Lance-grenades"
 		"ru"		"Гранатомёт"
 		"de"		"Granatwerfer"
@@ -214,6 +229,7 @@
 	"Double Barrel Shotgun"
 	{
 		"en"		"Double Barrel Shotgun"
+		"es"		"Escopeta de Barril Doble"
 		"fr"		"Fusil de Chasse à Double Canons"
 		"ru"		"Двустволка"
 		"de"		"Doppelläufige Schrotflinte"
@@ -224,6 +240,7 @@
 	"The Pompson 7000"
 	{
 		"en"		"The Pompson 7000"
+		"es"		"La Pomson 7000"
 		"fr"		"Pompson 7000"
 		"ru"		"Помсон 7000"
 		"de"		"The Pompson 7000"
@@ -254,6 +271,7 @@
 	"Aresenal's Tripmine Layer"
 	{
 		"en"		"Aresenal's Tripmine Layer"
+		"es"		"Capa de Minas de Aresenal"
 		"fr"		"Placeur de Mines de Aresenal"
 		"ru"		"Устоновщик мин Арсенала"
 		"de"		"Aresenals Tripminschicht"
@@ -274,6 +292,7 @@
 	"Railgun"
 	{
 		"en"		"Railgun"
+		"es"		"Cañon de Railes"
 		"fr"		"Canon à Rail"
 		"ru"		"Рельсотрон"
 		"de"		"Railgun"
@@ -842,6 +861,7 @@
 	"Buildings"//Buildings here
 	{
 		"en"		"Buildings"
+		"es"		"Construcciones"
 		"fr"		"Constructions"
 		"ru"		"Постройки"
 		"de"		"Gebäude"
@@ -852,12 +872,14 @@
 	"Decorative Object"
 	{
 		"en"		"Decorative Object"
+		"es"		"Objeto Decorativo"
 		"ru"		"Декоративный объект"
 		"fr"		"Objet Décoratif"
 	}
 	"Barricade"
 	{
 		"en"		"Barricade"
+		"es"		"Barricada"
 		"ru"		"Барикада"
 		"fr"		"Barrière"
 		"chi"		"路障"
@@ -865,6 +887,7 @@
 	"Armor Table"
 	{
 		"en"		"Armor Table"
+		"es"		"Tabla de Armadura"
 		"ru"		"Стол с бронёй"
 		"fr"		"Table d'Armure"
 		"chi"		"装甲柜"
@@ -872,6 +895,7 @@
 	"Ammo Box"
 	{
 		"en"		"Ammo Box"
+		"es"		"Caja de Municion"
 		"ru"		"Ящик с патронами"
 		"fr"		"Boîte de Munitions"
 		"chi"		"弹药箱"
@@ -879,6 +903,7 @@
 	"Perk Machine"
 	{
 		"en"		"Perk Machine"
+		"es"		"Maquina de Bebidas"
 		"ru"		"Машина Перков"
 		"fr"		"Machine de Perks"
 		"chi"		"可乐机"
@@ -886,6 +911,7 @@
 	"Pack-a-Punch"
 	{
 		"en"		"Pack-a-Punch"
+		"es"		"Pack-a-Punch"
 		"ru"		"Машина для улучшения"
 		"fr"		"Machine Pack-a-Punch"
 		"chi"		"升级站"
@@ -893,6 +919,7 @@
 	"Sentrygun"
 	{
 		"en"		"Sentrygun"
+		"es"		"Centinela"
 		"ru"		"Турель"
 		"fr"		"Mitrailleuse"
 		"chi"		"步哨"
@@ -900,12 +927,14 @@
 	"Mortar"
 	{
 		"en"		"Mortar"
+		"es"		"Mortero"
 		"fr"		"Mortier"
 		"chi"		"迫击炮"
 	}
 	"Food Fridge"
 	{
 		"en"		"Food Fridge"
+		"es"		"Heladera"
 		"ru"		"Холодильник"
 		"fr"		"Frigo de Bouffe"
 		"chi"		"冰箱"
@@ -916,6 +945,7 @@
 		"ru"	    "Деревня"
 		"fr"        "Village"
 		"chi"		"村庄"
+		"es"		"Villa"
 	}
 	"Metal"
 	{
@@ -934,6 +964,7 @@
 	"Upgrades"//Upgrades here!!!!
 	{
 		"en"		"Upgrades"
+		"es"		"Mejoras"
 		"fr"		"Améliorations"
 		"ru"		"Улучшения"
 		"de"		"Upgrades"
@@ -1303,6 +1334,7 @@
 		"pt"		"Armadura corporal"
 		"nl"		"Kogelvrije Vest"
 		"chi"       	"防弹衣"
+		"es"		"Armadura Corporal"
 	}
 	"Adrenalin"
 	{
@@ -1312,6 +1344,7 @@
 		"de"		"Adrenaline"
 		"pt"		"Adrenalina"
 		"nl"		"Adrenaline"
+		"es"		"Adrenalina"
 		"chi"       	"肾上腺素"
 	}
 	"Kevlar"
@@ -1322,11 +1355,13 @@
 		"de"		"Kevlar"
 		"pt"		"Kevlar"
 		"nl"		"Kevlar"
+		"es"		"Kevlar"
 		"chi"       	"芳族聚酰胺纤维"
 	}
 	"Heavy Vest"
 	{
 		"en"		"Heavy Vest"
+		"es"		"Chaleco Pesado"
 		"fr"		"Veste Lourde"
 		"ru"		"Тяжёлый бронежилет"
 		"de"		"Schwere Weste"
@@ -1337,6 +1372,7 @@
 	"Grigori's Blessing"
 	{
 		"en"		"Grigori's Blessing"
+		"es"		"Bendicion de Jesus"
 		"fr"		"Bénédiction de Jésus"
 		"ru"		"Благословение Иисуса"
 		"de"		"Jesu Segen"
@@ -1347,6 +1383,7 @@
 	"Full Riot Gear Set"
 	{
 		"en"		"Full Riot Gear Set"
+		"es"		"Traje Anti-Disturbio Completo"
 		"fr"		"Ensemble d'Équipement Anti-émeute"
 		"ru"		"Полный комплект спецназа"
 		"de"		"Komplettes Riot-Ausrüstungsset"
@@ -1367,6 +1404,7 @@
 	"Medigun Upgrades"//Medigun Upgrades HERE!!!
 	{
 		"en"		"Medigun Upgrades"
+		"es"		"Mejoras Medicas"
 		"fr"		"Améliorations Medigun"
 		"ru"		"Улучшения лечебной пушки"
 		"de"		"Medigun Upgrades"
@@ -1670,6 +1708,7 @@
 		"ru"		"Инвентарь"
 		"de"		"Inventar"
 		"pt"		"Inventário"
+		"es"		"Inventario"
 		"nl"		"Voorraad"
 		"chi"       	"库存"
 	}
@@ -2191,6 +2230,7 @@
 	"Only one allowed, sell to see and buy others."
 	{
 		"en"       "Only one allowed, sell to see and buy others."
+		"es"	   "Solo se permite una, vende la que tengas para usar otras."
 		"fr"       "Seulement un est permis, vendez pour voir et échanger pour les autres."
 		"ru"       "Только одно, продайте для покупки другого."
 		"chi"       "只允许装备一个！"
@@ -3039,21 +3079,25 @@
 	"Adaptive Medigun"
 	{
 		"en"		"Adaptive Medigun"
+		"es"		"Medigun Adaptiva"
 		"ko"		"적응형 메디건"
 	}
 	"Armor Medigun"
 	{
 		"en"		"Armor Medigun"
+		"es"		"Medigun de Armadura"
 		"ko"		"아머 메디건"
 	}
 	"Overclocking Devices"
 	{
 		"en"		"Overclocking Medigun"
+		"es"		"Medigun Overclock"
 		"ko"		"과부하 메디건"
 	}
 	"Reinforce"
 	{
 		"en"	"Reinforce"
+		"es"	"Reforzamiento"
 		"ko"	"증원 요청"
 	}
 	"Reconstructive Teleporter"
@@ -3068,6 +3112,7 @@
 	"Bubble Wand"
 	{
 		"en" "Bubble Wand"
+		"es" "Vara de Burbujas"
 	}
 	"Plasmic Surprise"
 	{
