@@ -1461,10 +1461,12 @@
 		"pt"		"Habilidade de Níveis"
 		"nl"		"Niveau extras"
 		"chi"       	"等级特权"
+		"es"		"Bonos de Nivels"
 	}
 	"Melee Perks"//Lvl Melee perks here
 	{
 		"en"		"Melee Perks"
+		"es"		"Bonos Cuerpo a Cuerpo"
 		"fr"		"Bonus Corps-à-Corps"
 		"ru"		"Перки ближнего боя"
 		"de"		"Nahkampf Vorteil"
@@ -1475,6 +1477,7 @@
 	"Panic Attack"
 	{
 		"en"		"Panic Attack"
+		"es"		"Ataque de Panico"
 		"fr"		"Crise de Panique"
 		"ru"		"Паническая атака"
 		"de"		"Panik-Attacke"
@@ -1495,6 +1498,7 @@
 	"Building Perks"//Lvl Building perks HERE!!
 	{
 		"en"		"Building Perks"
+		"es"		"Bonos de Construccion"
 		"fr"		"Bonus de Construction"
 		"ru"		"Перки построек"
 		"de"		"Gebäude Vorteil"
@@ -1505,6 +1509,7 @@
 	"Mechanic"
 	{
 		"en"		"Mechanic"
+		"es"		"Mecanico"
 		"fr"		"Méchanique"
 		"ru"		"Механик"
 		"de"		"Mechaniker"
@@ -1515,6 +1520,7 @@
 	"Wrenchy Hands"
 	{
 		"en"		"Wrenchy Hands"
+		"es"		"Manitas Inglesas"
 		"fr"		"Mains de Clé"
 		"ru"		"Гаечные руки"
 		"de"		"Schnellere Hände"
@@ -1525,6 +1531,7 @@
 	"Sniper Sentry"
 	{
 		"en"		"Sniper Sentry"
+		"es"		"Centinela Francotiradora"
 		"fr"		"Mitrailleuse de Sniper"
 		"ru"		"Снайперская турель"
 		"de"		"Scharfschützen Sentry"
@@ -1535,6 +1542,7 @@
 	"Minigun Sentry"
 	{
 		"en"		"Minigun Sentry"
+		"es"		"Metra-Centinela"
 		"fr"		"Mitrailleuse Minigun"
 		"ru"		"Пулемётная турель"
 		"de"		"Minigun Sentry"
@@ -1545,6 +1553,7 @@
 	"Glass Cannon Blueprints"
 	{
 		"en"		"Glass Cannon Blueprints"
+		"es"		"Planos de Cañon de Vidrio"
 		"fr"		"Plans du Canon de Verre"
 		"ru"		"Чертежи стеклянной пушки"
 		"de"		"Glas Kanonen Baupläne"
@@ -1555,6 +1564,7 @@
 	"Ranged Perks"//Lvl Ranged perks HERE!!!
 	{
 		"en"		"Ranged Perk"
+		"es"		"Bonos a Distancia"
 		"fr"		"Bonus Armes à Portée"
 		"ru"		"Перки дальнего боя"
 		"de"		"Fernkampf Vorteil"
@@ -1565,6 +1575,7 @@
 	"Heavy Caliber"
 	{
 		"en"		"Heavy Caliber"
+		"es"		"Calibre Pesado"
 		"fr"		"Haute Calibre"
 		"ru"		"Крупный калибр"
 		"de"		"Schwerer Kaliber"
@@ -1575,6 +1586,7 @@
 	"Army Belt"
 	{
 		"en"		"Army Belt"
+		"es"		"Cinturon de Ejercito"
 		"fr"		"Courroie de l'Armée"
 		"ru"		"Армейский пояс"
 		"de"		"Armeegürtel"
@@ -1585,6 +1597,7 @@
 	"Headshot Affinity"
 	{
 		"en"		"Headshot Affinity"
+		"es"		"Afinidad de Tiro a la Cabeza"
 		"fr"		"Affinité des Tirs en Pleine Tête"
 		"ru"		"Стрелок по головам"
 		"de"		"Kopfschussaffinität"
@@ -1595,6 +1608,7 @@
 	"Mage Perks"//Lvl Mage perks HERE!!!
 	{
 		"en"		"Mage Perks"
+		"es"		"Bonos de Mago"
 		"fr"		"Bonus Magiques"
 		"ru"		"Перки мага"
 		"de"		"Magie Vorteil"
@@ -1605,6 +1619,7 @@
 	"Mage Fragility"
 	{
 		"en"		"Mage Fragility"
+		"es"		"Fragilidad Magica"
 		"fr"		"Fragilité du Magicien"
 		"ru"		"Хрупкость мага"
 		"de"		"Magier Zerbrechlichkeit"
@@ -1615,6 +1630,7 @@
 	"Passive Perks"
 	{
 		"en"		"Passive Perks"
+		"es"		"Bonos Pasivos"
 		"fr"		"Bonus Passifs"
 		"ru"		"Постоянные перки"
 		"de"		"Passive Vorteil"
@@ -1635,6 +1651,7 @@
 	"Android"
 	{
 		"en"		"Android"
+		"es"		"Androide"
 		"fr"		"Androïde"
 		"ru"		"Андроид"
 		"de"		"Androide"
@@ -1645,6 +1662,7 @@
 	"Soft Shoes"
 	{
 		"en"		"Soft Shoes"
+		"es"		"Zapatos Suaves"
 		"fr"		"Souliers Doux"
 		"ru"		"Мягкие ботинки"
 		"de"		"Sanfte Schuhe"
@@ -1655,6 +1673,7 @@
 	"Level Items"
 	{
 		"en"		"Level Items"
+		"es"		"Objetos de Nivel"
 		"fr"		"Armes de Niveau"
 		"ru"		"Уровневые предметы"
 		"de"		"Level Gegenstände"
@@ -1664,6 +1683,7 @@
 	"Level 15 Peashooter"
 	{
 		"en"		"Level 15 Peashooter"
+		"es"		"Lanzaguisantes NV.15"
 		"fr"		"Lance-pois Niveau 15"
 		"ru"		"Горохострел 15-го уровня"
 		"de"		"Level 15 Erbsenkanone"
@@ -1674,6 +1694,7 @@
 	"Rusty Wrench"
 	{
 		"en"		"Rusty Wrench"
+		"es"		"Llave Inglesa Oxidada"
 		"fr"		"Clé Rouillée"
 		"ru"		"Ржавый гаечный ключ"
 		"de"		"Rostiger Schraubenschlüssel"
@@ -2308,6 +2329,7 @@
 	"All ltems here are affected by Building Upgrades."
 	{
 		"en"       "All ltems here are affected by Building Upgrades."
+		"es"	   "Todos los objetos aca son afectados por Mejoras de Construccion."
 		"fr"       "Tout achat ici est affecté par les Améliorations de Constructeur"
 		"ru"       "Все предметы здесь влияют на улучшение построек."
 		"chi"       "所有有关建筑的物品已被归类到此列表"
@@ -2315,6 +2337,7 @@
 	"TIP: Only one path can have a tier 3 upgrade" //村庄列表
 	{
 		"en"       "TIP: Only one path can have a tier 3 upgrade"
+		"es"	   "TIP: Solo un camino puede tener una mejora Tier 3"
 		"fr"       "INDICE: Seulement un trajet peut avoir une amélioration niveau 3"
 		"ru"       "СОВЕТ: Только один путь может иметь улучшение уровня 3"
 		"chi"       "提示:只有一条路径可以拥有三级升级"
@@ -2322,6 +2345,7 @@
 	"Bigger Radius"
 	{
 		"en"       "Bigger Radius"
+		"es"	   "Rango Mayor"
 		"fr"       "Portée Améliorée"
 		"ru"       "Увеличенный радиус"
 		"chi"      "扩大范围"
@@ -2329,6 +2353,7 @@
 	"Jungle Drums"
 	{
 		"en"       "Jungle Drums"
+		"es"       "Tambores de Selva"
 		"fr"       "Tambour des Jungles"
 		"ru"       "Барабаны джунглей"
 		"chi"      "加快范围内攻击速度"
@@ -2336,6 +2361,7 @@
 	"Grow Blocker"
 	{
 		"en"       "Grow Blocker"
+		"es"	   "Bloquea-generacion"
 		"fr"       "Bloqueur de Regénération"
 		"ru"       "Блокировщик роста"
 		"chi"       "生长阻止器"
@@ -2385,6 +2411,7 @@
 	"Judgement Of Iberia"
 	{
 		"en"       "Judgement Of Iberia"
+		"es"       "Juzgado de Iberia"
 		"fr"       "Judgement de Ibéria"
 		"ru"       "Суд Иберии"
 		"chi"      "伊比利亚之判"
@@ -2420,11 +2447,13 @@
 	"Deleting buildings refunds text"
 	{
 		"en"	"Deleting buildings returns spend metal dependant on remaining HP and repair HP"
+		"es"	"Borrar construcciones regresa metal segun la vida y vida de reparacion de la misma"
 		"fr"	"Du métal vous sera retourné pour les construction détruites, dépendant de leur durabilité"
 	}
 	"Press your action slot (h) to access an extra menu!"
 	{
 		"en"	"Press your action slot (h) to access an extra menu!"
+		"es"	"Presiona tu Boton de Accion (H) para un menu adicional!"
 		"fr"	"Appyuez sur le bouton Action (H) pour ouvrir un menu additionel!"
 		"ru"	"Нажмите на ячейку действия (h) для открытия доп. меню!"
 		"chi"	"按下动作/魔法键打开功能面板！[默认h]"
@@ -2508,6 +2537,7 @@
 	"Ranged Lego Layer"
 	{
 		"en"	"Ranged Lego Layer"
+		"es"	"Coloca-legos a Distancia"
 		"fr"	"Placeur de Legos à Distance"
 		"ru"	"Легомёт"
 		"chi"	"乐高布置器"
@@ -2644,6 +2674,7 @@
 	"Seaborn Infection"
 	{
 		"en"	"Seaborn Infection"
+		"es"	"Infeccion Seaborn"
 		"ru"	"Морерождённая инфекция"
 		"fr"	"Infection Seaborn"
 		"chi"	"海嗣感染"
@@ -2651,6 +2682,7 @@
 	"Seaborn Claws"
 	{
 		"en"	"Seaborn Claws"
+		"es"	"Garras Marinas"
 		"ru"	"Когти морерождённого"
 		"fr"	"Griffes Seaborn"
 		"chi"	"海嗣利爪"
@@ -2658,6 +2690,7 @@
 	"Seaborn Spines"
 	{
 		"en"	"Seaborn Spines"
+		"es"	"Espinas Marina"
 		"ru"	"Шипы морерождённого"
 		"fr"	"Épines Seaborn"
 		"chi"	"海嗣颈骨"
@@ -2665,6 +2698,7 @@
 	"Seaborn Salve"
 	{
 		"en"	"Seaborn Salve"
+		"es"	"Ungüento Marino"
 		"ru"	"Фласка Морерождённого"
 		"fr"	"Baume Seaborn"
 		"chi"	"海嗣药膏"
@@ -2672,12 +2706,14 @@
 	"The Flagellant"
 	{
 		"en"	"The Flagellant"
+		"es"	"El Flagelante"
 		"fr"	"Le Flagellant"
 		"chi"	"苦修"
 	}
 	"Punish"
 	{
 		"en"	"Punish"
+		"es"	"Castigo"
 		"ru"	"Наказать"
 		"fr"	"Punition"
 		"chi"	"惩罚"
@@ -2685,6 +2721,7 @@
 	"Deathless"
 	{
 		"en"	"Deathless"
+		"es"	"Inmortal"
 		"ru"	"Бессмертный"
 		"fr"	"Sans Mort"
 		"chi"	"无死"
@@ -2889,6 +2926,7 @@
 	"Song Of The Ocean"
 	{
 		"en"	"Song Of The Ocean"
+		"es"	"Cancion Oceanica"
 		"ru"	"Песян Океана"
 		"fr"	"Chant de l'Océan"
 		"chi"	"海洋之歌"
