@@ -14,6 +14,7 @@
 	"Press To Open Store"
 	{
 		"en"		"TAB OPEN STORE MENU"
+		"es"		"TABULADOR ABRE EL MENU"
 	}
 	"Last Alive"
 	{
@@ -35,7 +36,7 @@
 		"it"		"Hai raggiunto il Livello {1}\nHai sbloccato:"
 		"ru"		"Ваш уровень повышен до {1}-го\nВы открыли:"
 		"pl"		"Osiągnąłeś poziom {1}\nOdblokowano:"
-		"es"		"Has subido de nivel {1}\nHas desbloqueado:"
+		"es"		"Has subido al nivel {1}\nHas desbloqueado:"
 		"fr"		"Vous avez atteint le niveau {1}\nVous avez recu :"
 		"de"		"Du bust ein level Aufgestiegen {1}\nDu hast freigeschalted:"
 		"pt"		"Você subiu de nivel! Level {1} \nVocê desbloqueou:"
@@ -317,14 +318,17 @@
 	"Sell Items Confirm Pref"
 	{
 		"en"		"Are you sure you want to sell all your items?\nYou are still in the rebuy phase and will gain back your loadout store!"
+		"es"		"Estas seguro que quieres vender todos tus objetos?\nAun estas en la fase de compras y volveras al menu de equipamiento!"
 	}
 	"Sell All Items"
 	{
 		"en"		"Sell all items"
+		"es"		"Vender todos los objetos"
 	}
 	"Return to loadout Menu"
 	{
 		"en"		"Return to loadout Menu"
+		"es"		"Regresar al menu de equipamiento"
 	}
 	"Confirm Loadout"
 	{
@@ -1260,10 +1264,12 @@
 	"Freeze Bomb Activated"
 	{
 		"en" 		"Freeze Bomb!"
+		"es"		"Congela-Bomba!"
 	}
 	"Max Ammo Activated"
 	{
 		"en" 		"Extra Ammo!"
+		"es"		"Municion Extra!"
 		"fr" 		"Munitions Bonus!"
 		"ru" 		"Дополнительные патроны!"
 		"de"		"Extra Munition!"
@@ -1274,6 +1280,7 @@
 	"Max Health Activated"
 	{
 		"en" 		"Extra Health!"
+		"es"		"Vida Extra!"
 		"fr" 		"Santé Bonus!"
 		"pt"		"Vida Extra!"
 		"ru" 		"Дополнительное здоровье!"
@@ -1282,6 +1289,7 @@
 	"Max Money Activated"
 	{
 		"en" 		"Extra Cash!"
+		"es"		"Dinero Extra!"
 		"fr" 		"Argent Bonus!"
 		"pt"		"Dinheiro Extra!"
 		"ru" 		"Дополнительные деньги!"
@@ -1290,12 +1298,14 @@
 	"Grigori Shop Extra Activated"
 	{
 		"en" 		"Extra Super Sale!"
+		"es"		"Super Descuento Extra!"
 		"fr" 		"Rabais Bonus!"
 		"pt"		"Super Desconto Extra!"
 	}
 	"Help?"
 	{
 		"en" 		"Help/FAQ"
+		"es"		"Ayuda/PUF"
 		"fr" 		"Aide/FAQ"
 		"pt"		"Ajuda/FAQ"
 		"ru" 		"Помощь/ЧАВО"
@@ -1304,6 +1314,7 @@
 	"Help Title?"
 	{
 		"en" 		"Select in what you need help for."
+		"es"		"Selecciona en lo que necesites ayuda."
 		"fr" 		"Faites une sélection d'aide."
 		"ru" 		"Выберите, с чем вам нужна помощь."
 		"de"		"Wählen Sie aus wofür Sie Hilfe benötigen."
@@ -1423,7 +1434,7 @@
 	}
 	"Command Help Explained"
 	{
-		"en" 		"''/tp'' To toggle thirdperson.\n''/me'' To write something above yourself.\nHold Tab and then press your spray button to actually spray."
+		"en" 		"''/tp'' To toggle thirdperson.\nHold Tab and then press your spray button to actually spray."
 	}
 	"Difficulty Help Explained"
 	{
@@ -1507,23 +1518,28 @@
 	"Claim this building"
 	{
 		"en"		" while holding a wrench on the building to claim it."
+		"es"		" mientras usas una llave inglesa en la construccion para reclamarla."
 	}
 	"Interact With R" //KEEP THE SPACE!
 	{
 		"en"		"Press [R/ Use] "
+		"es"		"Presiona [R/Uso] "
 	}
 	"Interact With T Spray"
 	{
 		"en"		"Press [T(Spray)/ Use] "
+		"es"		"Presiona [T(Spray/Uso] "
 	}
 	"Enter this vehicle"
 	{
 		"en" 		"to enter and exit this vehicle"
+		"es"		"para entrar al/salir del vehiculo."
 	}
 	"Ammobox Tooltip"
 	{
 		"#format"	"{1:d}"
 		"en" 		"on the Ammobox to gain Ammo for your current holding weapon.\nAmmo Supplies Remaining: {1}"
+		"es"		"en la caja de municion para ganar municion para tu arma actual.\nSuministros Restantes: {1}"
 	}
 	"Warn Client Ammo None"
 	{
@@ -1533,14 +1549,17 @@
 	"Armortable Tooltip"
 	{
 		"en" 		"on the Armortable to gain Armor."
+		"es"		"en la tabla de armadura para ganar armadura."
 	}
 	"Perkmachine Tooltip"
 	{
 		"en" 		"on the Perkmachine to gain a strong perk that lasts till you are dead/downed."
+		"es"		"en la maquina de bebidas para ganar un bono que dura hasta que mueras/te derriben."
 	}
 	"PackAPunch Tooltip"
 	{
 		"en" 		"To Pack-a-Punch your current holding weapon."
+		"es"		"para mejorar tu arma actual."
 	}
 	"Packed"
 	{
@@ -1575,6 +1594,7 @@
 	"Revive Teammate tooltip"
 	{
 		"en" 		"to revive this dying teammate."
+		"es"		"para revivir a este compañero moribundo."
 	}
 	"Bored or Dead"
 	{
@@ -1685,6 +1705,7 @@
 	"No Ammo Supplies"
 	{
 		"en" 		"You don't have any Ammo Supplies!"
+		"es"		"No tienes suministros de municion!"
 		"fr" 		"Vous n'avez pas de Réserves de Munitions!"
 		"ru" 		"У вас больше нет запасов боеприпасов!"
 		"de"		"Sie haben keine Munitionsvorräte!"
@@ -1695,6 +1716,7 @@
 	"Grigori Store Refresh"
 	{
 		"en" 		"Grigori has refreshed his shop! Check it out!"
+		"es"		"Grigori actualizo su tienda! Mirala!"
 		"fr" 		"Grigori a restocké ses offres! Allez les voir!"
 		"ru" 		"Григорий обновил свой ассортимент! Зацените!"
 		"de"		"Grigori hat sein Shop aufgefrischt! Schauen Sie nach!"
@@ -1715,6 +1737,7 @@
 	"You Died Teuton"
 	{
 		"en" 		"You died!\nHelp your team by attacking the enemies.\nYou cant die in this state and will respawn next wave."
+		"es"		"Moriste!\nAyuda a tu equipo atacando a los enemigos.\nNo puedes morir en este estado y reviviras en la siguiente oleada."
 		"fr" 		"Vous êtes mort!\nAidez votre équipe et attaquez les ennemis.\nVous êtes immortel et va renaître à la prochaine vague."
 		"ru" 		"Вы умерли!\nПомогите своей команде, атакуя врагов.\nВы не можете умереть в этом состоянии и возродитесь в следующей волне."
 		"de"		"Sie sind gestorben!\nHelfen sie ihr Team durch Angriffe auf die Gegnern.\nSie können nicht sterben in diesen zustand und werden wiederbelebt nächste runde."
@@ -1776,6 +1799,7 @@
 	"TF2: Zombie Riot"
 	{
 		"en" 		"TF2: Zombie Riot\nPress TAB again to close the menu!\nHold TAB + (H) to show current weapon!"
+		"es"		"TF2: Zombie Riot\nPresiona TAB de nuevo para cerrar el menu!\nManten TAB + H para ver tu arma actual!"
 		"ru" 		"TF2: Zombie Riot\nСнова нажмите TAB что бы закрыть меню!\nУдерживайте TAB + (H) что бы посмотреть текущее оружие!"
 		"fr" 		"TF2: Zombie Riot\nAppuyez TAB pour fermer le menu!\nAppuyez TAB + (H) pour afficher votre arme!"
 		"chi"		"TF2：僵尸暴动\n按Tab开关菜单\nTAB+(H)显示当前武器！"
@@ -2006,11 +2030,13 @@
 	"Which perk do you desire?"
 	{
 		"en"		"Click on a perk to get it.\nCrouch while clicking to see its description instead."
+		"es"		"Toca cualquier bono para obtenerlo.\nAgachate y toca para ver la descripcion del bono."
 	}	
 	"Reviving"
 	{
 		"#format"	"{1:d}"
 		"en"		"Reviving... [{1}]"
+		"es"		"Reviviendo... [{1}]"
 		"fr"		"Resucitation... [{1}]"
 		"ru"		"Оживление... [{1}]"
 		"pt"		"Reanimando... [{1}]"
@@ -2021,6 +2047,7 @@
 	{
 		"#format"	"{1:d}"
 		"en"		"You're Being Revived. [{1}]"
+		"es"		"Estas siendo resuicitado. [{1}]"
 		"fr"		"Quelqu'un essaie de vous resuciter. [{1}]"
 		"ru"		"Вас оживляют. [{1}]"
 		"pt"		"Você foi reanimado. [{1}]"
@@ -2133,6 +2160,7 @@
 	"Is already at full hp"
 	{
 		"en"		"is already at full hp."
+		"es"		"ya tiene vida llena."
 		"fr"		"n'a pas besoin de soins."
 		"ru"		"уже имеет полное здоровье."
 		"pt"		"ja está com a vida cheia"
@@ -2143,6 +2171,7 @@
 	{
 		"#format"	"{1:N},{2:d}"
 		"en"		"You Healed [{1}] for [{2}] HP!"
+		"es"		"Curaste a [{1}] por [{2}] de vida!"
 		"fr"		"Vous avez soigné [{1}] pour [{2}]!"
 		"ru"		"Вы вылечили [{1}] на [{2}] ед. здоровья!"
 		"pt"		"Você curou [{1}] por [{2}] de vida!"
@@ -2153,6 +2182,7 @@
 	{
 		"#format"	"{1:s},{2:d}"
 		"en"		"You Healed [{1}] for [{2}] HP!"
+		"es"		"Curaste a [{1}] por [{2}] de vida!"
 	}
 	"Loadouts"
 	{
@@ -2251,6 +2281,7 @@
 	"nothing"
 	{
 		"en" 		"Example Text!"
+		"es"		"a oliver le cayo una nuke mientras peleaba contra blitzkrieg zr"
 		"fr" 		"AWWWWWWW BWWWWWWW"
 		"chi"       "示例文本!"
 	}
@@ -2271,6 +2302,7 @@
 	"Cannot Build Here"
 	{
 		"en"		"Something is blocking your building from being placed."
+		"es"		"Algo impide que puedas construir."
 		"fr"		"Il y a quelque chose ici qui bloque votre construction."
 		"ru"		"Что-то препятствует размещению постройки."
 		"nl"		"Iets blokeerd je van uw gebouw te plaatsen."
@@ -2279,6 +2311,7 @@
 	"Can Build Here"
 	{
 		"en"		"You can build your building here!"
+		"es"		"Puedes construir aqui!"
 		"fr"		"Vous pouvez construire ici!"
 		"ru"		"Вы можете построить свою постройку здесь!"
 		"nl"		"Hier kan je bouwen!"
@@ -2320,6 +2353,7 @@
 	"Settings"
 	{
 		"en"		"Settings"
+		"es"		"Opciones"
 		"fr"		"Paramètres"
 		"ru"		"Настройки"
 		"chi"		"设置"
@@ -2327,6 +2361,7 @@
 	"Settings Page"
 	{
 		"en"		"Settings Page"
+		"es"		"Pagina de Opciones"
 		"fr"		"Paramètres"
 		"ru"		"Страница настроек"
 		"chi"		"设置页面"
@@ -2437,13 +2472,15 @@
 	"Mark Building For Deletion"
 	{
 		"en"		"Mark a building for deletion."
+		"es"		"Marca una construccion para borrar."
 		"fr"		"Marquez une construction à détruire."
 		"ru"		"Отметить постройку для удаления."
 		"chi"		"标记要删除的建筑物。"
 	}
 	"Delete Current Marked Building"
 	{
-		"en"		"Delete the current marked building ?"
+		"en"		"Delete the current marked building?"
+		"es"		"Borrar la construccion marcada?"
 		"fr"		"Détruire cette construction?"
 		"ru"		"Удалить текущую отмеченную постройку?"
 		"chi"		"删除当前标记的建筑物?"
@@ -2519,6 +2556,7 @@
 	"Last Down Warning"
 	{
 		"en"		"This is your last down."
+		"es"		"Esta es tu ultima vida."
 	}
 	"Opened store via command"
 	{
@@ -2538,6 +2576,7 @@
 	{
 		"#format"	"{1:d}"
 		"en"		"Downs Left: {1}"
+		"es"		"Derribos Restantes: {1}"
 		"fr"		"KOs restants: {1}"
 		"ru"		"Падений осталось: {1}"
 		"chi"		"剩余回合:{1}"
@@ -2633,6 +2672,7 @@
 	"Npc Stuck Spot Warning"
 	{
 		"en"		"Get out of the NPC stuck zone. you will receive this message every 0.5 seconds if you stay in it."
+		"es"		"Sal de la zona anti-stuck de NPC, recibiras este mensaje cada 0.5s si sigues en esta."
 		"fr"		"Sortez de la zone de bloquage des NPC. Vous recevrez ce message tous les 0.5 secondes si vous restez."
 		"ru"		"Выйдите из зоны застревания NPC. Вы будете получать это сообщение каждые 0,5 секунды, если останетесь в ней."
 		"chi"		"离开npc卡住的区域。如果你待在里面，每0.5秒你就会收到这条信息。"
@@ -2640,6 +2680,7 @@
 	"Npc Stuck Spot Warning Stairs"
 	{
 		"en"		"Dont be on ladders too long or use them too much. you will receive this message every 0.5 seconds if you stay in it."
+		"es"		"No te quedes mucho en las escaleras. Recibiras este mensaje cada 0.5s si te quedas en ellas."
 		"fr"		"Restez pas trop longtemps sur les échelles. Vous recevrez ce message tous les 0.5 secondes si vous restez."
 	}
 
@@ -2653,11 +2694,13 @@
 	"Show Ragdoll Hint Message"
 	{
 		"en"		"Please set, set ''g_ragdoll_fadespeed'' to NOT 0, in the console! any value higher then 0 works (1 is good enough, 600 is default)! If you dont do this, you WILL crash!"
+		"es"		"Por favor, pon el valor de ''g_ragdoll_fadespeed'' a un valor mayor a 0 en la consola (1 es mas que suficiente, 600 es default)! Si no haces esto, TU JUEGO SE CERRARA INESPERADAMENTE!"
 		"fr"		"S'il vous plaît, fixez la valeur de «g_ragdoll_fadespeed» à une valeur autre que 0, dans la console! N'importe quelle valeur plus grand que 0 fonctionne. ( 1 est le minimum, 600 par défaut. ) Votre jeu va crash si vous ne faites pas ceci!"
 	}
 	"Show Ragdoll Teeth Message"
 	{
 		"en"		"Please set, set ''r_teeth'' to 0, in the console! Due to the 64x bit update some older models will glitch out if this is enabled!"
+		"es"		"Por favor, pon el valor de ''r_teeth'' a 0 en la consola! Debido a la update de x64 bits, algunos modelos viejos daran errores si el valor de r_teeth no es 0!"
 	}
 	"Buildable Village"
 	{
@@ -3502,14 +3545,17 @@
 	"Interact With Reload"
 	{
 		"en" 	"Interact With Reload"
+		"es"	"Interactuar con RECARGA"
 	}
 	"Interact With Spray"
 	{
 		"en" 	"Interact With Spray"
+		"es"	"Interactuar con SPRAY"
 	}
 	"Disable Setup Music"
 	{
 		"en" 	"Disable Setup Music"
+		"es"	"Deshabilitar musica de Preparacion"
 	}
 	"Disable Status Effect Hints"
 	{
@@ -3588,125 +3634,148 @@
 	"Default Desc"
 	{
 		"en"	"Fight against the classic zombies and combine!"
+		"es"	"Lucha contra los zombies y combine clasicos!"
 		"fr"	"Allez face-à-face contre les zombies et Combine classiques!"
 		"chi"	"击败尸群，打败联合军！"
 	}
 	"True Fusion Warrior Wave Desc"
 	{
 		"en"	"(1) ''Silvester'' Is infected with the xeno virus, his gear prevents spreading of it."
+		"es"	"(1) ''Silvester'' esta infectado con el virus Xeno, pero su armadura evita que se propague."
 	}
 	"Alternative Desc"
 	{
 		"en"	"Fight with a new twist on the classic with magical new enemies!"
+		"es"	"Lucha con un giro entre lo clasico y nuevos enemigos misteriosos!"
 		"fr"	"Une tournure sur le mode classique aves des nouveaux ennemis mystérieux!"
 		"chi"	"经典模式，但出现了掌握魔法的心敌人…"
 	}
 	"Blitzkrieg Wave Desc"
 	{
 		"en"	"(2) The machine got hacked by someone... it wants you dead.\nOriginally build by Kahmlstein together with Ruina and Expidonsa...\nDo not fight him in any expidonsan areas..."
+		"es"	"(2) La maquina fue hackeada por alguien... Te quiere muerto.\nOriginalmente construido por Kahmlstein junto con los mejores ingenieros de Ruina y Expidonsa."
 	}
 	"Blitzkrieg Hard Desc"
 	{
 		"en"	"Do not dare fight him."
+		"es"	"La resistencia es futil."
 		"fr"	"Le combat est futile."
 	}
 	"Xeno Desc"
 	{
 		"en"	"The Xeno infection has arrived, mutating enemies with new abilities!"
+		"es"	"La infeccion Xeno llego, mutando a los enemigos con nuevas habilidades!"
 		"fr"	"Les ennemis sont infectés avec l'infection Xéno, et reçoivent de nouvelles abilités!"
 		"chi"	"外界感染到来，僵尸们的变异也更加严重了。"
 	}
 	"Silvester Waldch Desc"
 	{
-		"en"	"(3) You trying to find out what xeno is... Silverster and waldch are here to stop you from getting infected."
+		"en"	"(3) You trying to find out what xeno is... but Silvester and Waldch are here to stop you from getting infected."
+		"es"	"(3) Intentas averiguar lo que el Xeno realmente es... Pero Silvester y Waldch estan aqui para detenerte."
 	}
 	"Xeno Hard Desc"
 	{
 		"en"	"You enter the source of the Xeno infection, they're much stronger here, beware..."
+		"es"	"Entras a la fuente de la infeccion Xeno, son mas fuertes aqui, cuidado..."
 		"fr"	"Vouz avez trouvé la source de l'infection Xéno. Les ennemis sont beaucoup plus forts ici, gare à vous..."
 		"chi"	"你们找到了感染的来源。小心点… 它们在这里更强。"
 	}
 	"Medieval Desc"
 	{
 		"en"	"Fight against the middle-age with their armor to counter melee or ranged attacks!"
+		"es"	"Lucha contra la edad media con su armadura para contrarrestar daño cuerpo a cuerpo o a distancia!"
 		"fr"	"Entrez en combat contre le Moyen-Âge, et leur armure qui leur protège contre les attaques à portée et corps à corps!"
 		"chi"	"对抗中世纪的剑与盾！"
 	}
 	"God Alaxios Wave Desc"
 	{
 		"en"	"(4) Fight him and his rapidly spawning army, kill the army first whenever they show up!"
+		"es"	"(4) Lucha contra el y su ejercito frecuente, derrota a su ejercito siempre que aparezcan!"
 		"fr"	"Alaxios apporte son armée, tuez ses unités en premier quand ils apparaîssent!"
 		"chi"	"准备迎接一场全面的战争。记得先处理掉他的军队！"
 	}
 	"Expidonsa Desc"
 	{
 		"en"	"Hold back against the advanced underground city, watch out for their self-healing and surprise attacks!"
+		"es"	"Defiendete contra la ciudad subterranea avanzada, cuidado con su regeneracion y ataques sorpresa!"
 		"fr"	"Résiste cette ville souterraine avancée, faites garde à leur soins regénératifs et leurs attaques surprises!"
 		"chi"	"抵抗Expidonsa的高科技。别小看他们的盾牌，同时看好自己背后……"
 	}
 	"Sensal Wave Desc"
 	{
 		"en"	"(5) The scouting party operative, you harmed silvester and waldch, but they were unable to tell sensal that this was a false alarm, brace yourself."
+		"es"	"(5) El operativo del grupo de exploracion. Heriste a Silvester y a Waldch, pero no fueron capaces de decirle a Sensal que era una falsa alarma.\nPreparate."
 	}
 	"Deep Sea Desc"
 	{
 		"en"	"The Seaborn infection has arrived, Armor Corrosion attacks will infect your armor, cure it with armor tables!"
+		"es"	"La infeccion Seaborn llego, con sus ataques de corrosion! Cura la corrosion con armadura!"
 		"fr"	"L'infection Seaborn attaque avec la Corrosion d'Armure. Guérissez-la avec vos tables d'armure!"
 		"chi"	"海嗣感染将会侵蚀你的盾。"
 	}
 	"Interitus Desc"
 	{
-		"en"	"(7) Chaos has afflicted many cities, His group is ready to serve you justics. Get ready."
+		"en"	"(7) Chaos has afflicted many cities, His group is ready to serve you justice. Get ready."
+		"es"	"(7) El Caos afecto a varias ciudades. Su grupo esta listo para servirte justicia. Preparate."
 		"fr"	"Le chaos a frappé plusieurs villes, son groupe est prêt à vous rendre sa justice. Préparez-vous."
 		"chi"	"混沌已吞噬了无数个城市，现在来找你了……"
 	}
 	"Schwert Donner Desc"
 	{
 		"en"	"(6) Invade the seaborn and kill them off while alaxios distracts them... however, it seems another party missunderstands this temporary alliance."
+		"es"	"(6) Invade a los Seaborn y matalos mientras Alaxios los distrae... Sin embargo, parece que otro grupo malentiende esta alianza temporal."
 	}
 	"Schwert Donner Alt Desc"
 	{
 		"en"	"If the sea creatues ever attacked here.... then.. something went MAJORILY wrong. Why are they so.. strong?!"
+		"es"	"Si las criaturas del mar siquiera atacaron aca... entonces.. algo fue MUY mal. Por que son tan... fuertes?!"
 	}
 	"Khaml Desc"
 	{
-		"en"	"(7) Chaos has afflicted many cities, His group is ready to serve you justics. Get ready."
+		"en"	"(7) Chaos has afflicted many cities, His group is ready to serve you justice. Get ready."
+		"es"	"(7) El Caos afecto a varias ciudades. Su grupo esta listo para servirte justicia. Preparate."
 		"fr"	"Le chaos a frappé plusieurs villes, son groupe est prêt à vous rendre sa justice. Préparez-vous."
 		"chi"	"混沌已吞噬了无数个城市，现在来找你了……"
 	}
 	"Void Desc"
 	{
 		"en"	"Help Kahmlstein agains the void!"
+		"es"	"Ayuda a Kahmlstein contra el vacio!"
 		"fr"	"Aidez Kahmlstein contre le Void!"
 		"chi"	"帮卡姆斯坦因击退深渊！"
 	}
 	"Unspeakable Raid Desc"
 	{
 		"en"	"(8) Directly after you release the void in rogue2..."
+		"es"	"(8) Directamente despues de liberar el vacio en rogue2..."
 		"fr"	"Après avoir relâché le Void dans Rogue 2..."
 		"chi"	"深渊已被释放。"
 	}
 	"Twirl Raid Desc"
 	{
 		"en"	"(9) A certain individual has taken an interest in your group"
+		"es"	"(9) Un individuo especial tiene interes en tu grupo."
 		"fr"	"Cet individuel s'est intéressé dans votre groupe."
 		"chi"	"你貌似引起了 她 的兴趣"
 	}
 	"Ruina waves Desc"
 	{
 		"en"	"Can you withstand the power of magic?"
+		"es"	"Puedes aguantar el poder de la magia?"
 		"fr"	"Pouvez-vous survivre la prouesse de la magie?"
 		"chi"	"你能阻挡魔法之力吗》"
 	}
 	"CoF Normal Desc"
 	{
 		"en"	"Enter Simon's Book."
+		"es"	"Entra en el libro de Simon."
 		"fr"	"Entrez le Livre de Simon."
 		"chi"	"进入西蒙的书中。"
 	}
 	"CoF Nightmare Desc"
 	{
 		"en"	"Enter Simon's Mind."
+		"es"	"Entra en la mente de Simon."
 		"fr"	"Entrez les Pensées de Simon."
 		"chi"	"进入西蒙的噩梦。"
 	}
@@ -3757,36 +3826,42 @@
 	"Tags & Author"
 	{
 		"en"		"Tags & Author"
+		"es"		"Tags y Autor"
 		"fr"		"Étiquettes & Auteur(e)"
 	}
 	"Created By"
 	{
 		"#format"	"{1:s}"
 		"en"		"{darkgrey}Created by: {community}{1}"
+		"es"		"{darkgrey}Creado por: {community}{1}"
 		"fr"		"{darkgrey}Creé par: {community}{1}"
 	}
 	"NPCs By"
 	{
 		"#format"	"{1:s}"
 		"en"		"{darkgrey}NPCs by: {community}{1}"
+		"es"		"{darkgrey}NPCS hechos por: {community}{1}"
 		"fr"		"{darkgrey}NPCs par: {community}{1}"
 	}
 	"Format By"
 	{
 		"#format"	"{1:s}"
 		"en"		"{darkgrey}Format by: {community}{1}"
+		"es"		"{darkgrey}Formato hecho por: {community}{1}"
 		"fr"		"{darkgrey}Format par: {community}{1}"
 	}
 	"Raidboss By"
 	{
 		"#format"	"{1:s}"
 		"en"		"{darkgrey}Raidboss by: {community}{1}"
+		"es"		"{darkgrey}Raidboss hecho por: {community}{1}"
 		"fr"		"{darkgrey}Raid boss par: {community}{1}"
 		"chi"		"{darkgrey}Raidboss作者：{community}{1}"
 	}
 	"Now Playing Song"
 	{
 		"#format"	"{1:s},{2:s}"
+		"es"		"{darkgrey}Reproduciendo: {community}{1} {default}- {lightgreen}{2}"
 		"en"		"{darkgrey}Now Playing: {community}{1} {default}- {lightgreen}{2}"
 		"fr"		"{darkgrey}Musique : {community}{1} {default}- {lightgreen}{2}"
 		"chi"		"{darkgrey}现在播放：{community}{1} {default}- {lightgreen}{2}"
@@ -3847,22 +3922,26 @@
 	"View PAP Upgrades"
 	{
 		"en"	"View PAP Upgrades"
+		"es"	"Ver mejoras PAP"
 	}
 	"Bring up Class Change Menu"
 	{
 		"en"	"Bring up Class Change Menu"
+		"es"	"Abrir el menu de clases"
 		"fr"	"Montrer le Menu de Changement de Classe"
 		"chi"	"打开兵种切换菜单"
 	}
 	"Corrode"
 	{
 		"en"	"Corrode"
+		"es"	"Corrosion"
 		"fr"	"Corrosion"
 		"chi"	"腐蚀"
 	}
 	"Chaos"
 	{
 		"en"	"Chaos"
+		"es"	"Caos"
 		"fr"	"Chaos"
 		"chi"	"混沌"
 	}
@@ -3881,6 +3960,7 @@
 	"Building Menu"
 	{
 		"en"	"Building Menu\nHold crouch for more info"
+		"es"	"Menu de construccion\nAgachate para mas info"
 		"fr"	"Menu de Construction\nAccroupissez-vous pour plus d'informations"
 		"chi"	"建筑菜单\n蹲下查看详细信息"
 	}
@@ -3907,12 +3987,14 @@
 	"purnell_message"
 	{
 		"en"	"Relax, I'm not one of them."
+		"es"	"Relajate, no soy uno de ellos."
 		"fr"	"Calmez-vous, je ne suis pas avec eux."
 		"chi"	"放心。我和他们不一样。"
 	}
 	"Modifier set to"
 	{
 		"en"	"Modifier set to"
+		"es"	"Modificador puesto en"
 		"ru" 	"Модификатор установлен на"
 		"fr"	"Le modifieur est maintenant"
 		"chi"	"难度已设为："
@@ -3920,6 +4002,7 @@
 	"Vote for the modifier"
 	{
 		"en"	"Vote for the modifier"
+		"es"	"Vota por el modificador"
 		"fr"	"Votez pour le modifieur"
 		"chi"	"选择难度"
 	}
@@ -4014,18 +4097,22 @@
 	"Disable Ambient Music"
 	{
 		"en"	"Disable Ambient Music"
+		"es"	"Deshabilitar musica ambiental"
 	}
 	"Enable Visible Downs"
 	{
 		"en"	"Enable Visible Downs"
+		"es"	"Habilitar derribos visibles"
 	}
 	"Enable Visual Clutter"
 	{
 		"en"	"Enable Visual Clutter"
+		"es"	"Habilitar efectos visuales"
 	}
 	"Enable Visual Clutter Desc"
 	{
 		"en"	"Re-Enables Things like arrows in npc's and other things that are just hindering visual things.\nIf you love it, enable it again."
+		"es"	"Re-habilita algunas cosas como las flechas clavadas en los NPCS y otras cosas visuales.\nSi lo amas, activalo."
 	}
 	"Enable Reload Interact Desc"
 	{
@@ -4034,10 +4121,12 @@
 	"Enable Numeral Armor"
 	{
 		"en"	"Enable Numeral Armor"
+		"es"	"Habilitar armadura numeral"
 	}
 	"Enable Ammobox Count Perma"
 	{
 		"en"	"Enable Ammobox Count Perma"
+		"es"	"Habilitar cant. de suministros HUD"
 	}
 	"Class Vote Citizen Do"
 	{
