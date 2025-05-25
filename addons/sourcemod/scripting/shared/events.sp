@@ -163,7 +163,6 @@ public void OnSetupFinished(Event event, const char[] name, bool dontBroadcast)
 		delete kv;
 	}
 	
-	DeleteShadowsOffZombieRiot();
 	for(int client=1; client<=MaxClients; client++)
 	{
 		SetMusicTimer(client, 0);

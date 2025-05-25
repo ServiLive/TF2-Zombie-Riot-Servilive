@@ -1713,7 +1713,7 @@ public Action Player_OnTakeDamage(int victim, int &attacker, int &inflictor, flo
 		}
 	}
 #endif
-
+	
 #if defined ZR
 	if(TeutonType[victim])
 	{
@@ -1755,6 +1755,13 @@ public Action Player_OnTakeDamage(int victim, int &attacker, int &inflictor, flo
 		}
 	}
 
+	if(HasSpecificBuff(victim, "Archo's Posion"))
+	{
+		if(!(damagetype & (DMG_FALL|DMG_OUTOFBOUNDS|DMG_TRUEDAMAGE)))
+		{
+			damagetype = DMG_TRUEDAMAGE;
+		}
+	}
 	if(damagetype & DMG_CRIT)
 	{
 		damagetype &= ~DMG_CRIT; //Remove Crit Damage at all times, it breaks calculations for no good reason.
@@ -2300,7 +2307,10 @@ public Action SDKHook_AmbientSoundHook(char sample[PLATFORM_MAX_PATH], int &enti
 	}
 	return Plugin_Continue;
 }
-public Action SDKHook_NormalSHook(int clients[MAXPLAYERS], int &numClients, char sample[PLATFORM_MAX_PATH], int &entity, int &channel, float &volume, int &level, int &pitch, int &flags, char soundEntry[PLATFORM_MAX_PATH], int &seed)
+
+public Action SDKHook_NormalSHook(int clients[MAXPLAYERS], int &numClients, char sample[PLATFORM_MAX_PATH],
+	  int &entity, int &channel, float &volume, int &level, int &pitch, int &flags,
+	  char soundEntry[PLATFORM_MAX_PATH], int &seed)
 {
 	/*
 	if(b_IsAmbientGeneric[entity])
